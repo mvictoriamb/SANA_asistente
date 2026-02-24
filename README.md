@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=🤖+SANA+Assistant;🎙️+Control+por+Voz;📧+Gmail+Unificado;📅+Agenda+Inteligente;🧠+Powered+by+Gemini+2.5" alt="typing svg" />
 </div>
 
-# 🤖 **SANA: Smart Agent & Notification Assistant**
+# 🤖 **SANA: Smart Assistant & Notification Agent**
 
 **Voz Natural** | **Gestión Unificada de Gmail** | **Agenda 10 Días** | **IA Gemini 2.5 Flash**
 
