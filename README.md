@@ -52,16 +52,16 @@ Una vez iniciado el script con python main.py, puedes interactuar con SANA:
 "Dime si tengo correos nuevos de la UMA" 📧
 "Léeme el último correo sobre ciberseguridad" 🧠
 
-### 🔐 Seguridad y Privacidad
+## 🔐 Seguridad y Privacidad
 Este proyecto está diseñado siguiendo las mejores prácticas de seguridad:
 
-# Gestión de Sesiones:
+### Gestión de Sesiones:
 SANA utiliza OAuth 2.0 para acceso autorizado sin almacenar contraseñas.
 
-# Tokens Temporales: 
+### Tokens Temporales: 
 Los tokens de acceso se generan localmente al primer inicio de sesión.
 
-### 📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 ```plaintext
 SANA-Assistant/
 ├── 🐍 main.py             # Controlador principal y gestión de audio
