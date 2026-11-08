@@ -31,8 +31,8 @@
 ### 2. Configuración del entorno
 ```bash
 # 1. Clonar el repositorio
-git clone [https://github.com/mvictoriamb/SANA-Assistant.git](https://github.com/mvictoriamb/SANA-Assistant.git)
-cd SANA-Assistant
+git clone https://github.com/mvictoriamb/SANA_asistente.git
+cd SANA_asistente
 
 # 2. Instalar dependencias
 pip install -r requirements.txt
@@ -67,16 +67,3 @@ SANA-Assistant/
 ├── requirements.txt    # Librerías necesarias
 └── .gitignore          # Archivos excluidos del repositorio
 ```
----
-
-
-<div align="center">
-  <h3>María Victoria Maldonado Bao</h3>
-  <p><i>Ciberseguridad & Inteligencia Artificial | UMA Málaga 2028</i></p>
-
-  <a href="mailto:mvictoriamb0425@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/mvictoriamb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  
-  <br><br>
-
-</div>
